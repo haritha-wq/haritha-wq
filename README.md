@@ -17,9 +17,9 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haritha-senthilnathan)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/haritha-wq)
 [![Email](https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harithasenthilnathan2003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haritha-senthilnathan)
+[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/haritha-wq)
 ![Location](https://img.shields.io/badge/BANGALORE-000000?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
@@ -122,13 +122,13 @@ I don't just run models. I understand *why* the numbers matter.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=haritha-senthilnathan&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&ring_color=ffffff" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api?username=haritha-wq&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888&icon_color=ffffff&ring_color=ffffff" height="155"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haritha-senthilnathan&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888" height="155"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=haritha-wq&layout=compact&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&text_color=888888" height="155"/>
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=haritha-senthilnathan&theme=github-compact&bg_color=0d0d0d&color=ffffff&line=444444&point=ffffff&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=haritha-wq&theme=github-compact&bg_color=0d0d0d&color=ffffff&line=444444&point=ffffff&hide_border=true" width="95%"/>
 
 </div>
 
