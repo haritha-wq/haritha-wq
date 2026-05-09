@@ -139,15 +139,14 @@ Presently pursuing high-calibre roles across **Data Analytics · Business Intell
 
 ## `◈` &nbsp; Current Position
 
-```python
-haritha = {
-    "status"      : "MCA Candidate · Jain University, Bangalore",
-    "cultivating" : ["Advanced NLP", "LLM Fine-tuning", "Edge AI", "DAX & Power Query"],
-    "engineering" : "AI systems of measurable consequence",
-    "open_to"     : ["IT Analyst", "Data Analyst", "Business Analyst", "AI/ML Engineer", "BI Specialist"],
-    "distinction" : "Architected an AI that evaluates resumes — including her own. 😎"
-}
-```
+Currently pursuing an MCA at Jain University, Bangalore — deepening expertise across
+**Advanced NLP, LLM Fine-tuning, Edge AI, and DAX & Power Query**, while architecting
+systems where data precision meets business consequence.
+
+Open to roles in **IT Analysis · Data Analytics · Business Intelligence · AI/ML Engineering · BI Specialist.**
+
+*Notable: Engineered a recruitment intelligence pipeline autonomous enough
+to evaluate — and shortlist — its own architect.*
 
 <br>
 
